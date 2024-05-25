@@ -6,7 +6,7 @@ ARIUNA AIUSHEEVA
 +79138700781 
 
 aryuna.ayusheeva.1998@mail.ru
-# Skills
+# SKILLS
 ### Python
 (pandas, sklearn, numpy, scipy )
 (subprocess32, pybedtools, samtools)
