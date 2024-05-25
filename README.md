@@ -15,14 +15,14 @@ aryuna.ayusheeva.1998@mail.ru
 
 # EDUCATION 
 
-## Bioinformatics Institute
+- ## Bioinformatics Institute
 Bioinformatics for biologists
 2023 – 2024
-## Siberian State Medical University
+- ## Siberian State Medical University
 Department of Medical Biology, medical
 cybernetics
 2015 - 2021
-## Institute of Protein Research
+- ## Institute of Protein Research
 PhD student in molecular biology, group of
 protein biosynthesis regulation
 2021 - present
