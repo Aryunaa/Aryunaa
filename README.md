@@ -6,6 +6,19 @@ ARIUNA AIUSHEEVA
 +79138700781 
 
 aryuna.ayusheeva.1998@mail.ru
+# Skills
+### Python
+(pandas, sklearn, numpy, scipy )
+(subprocess32, pybedtools, samtools)
+### C++, Qt5
+### bash (gnu parallel), Snakemake, git,
+experienced with Rest API
+### R (ggplot2, corrplot, psych, plotROC,
+lattice, tidyverse)
+mySQL
+### Ability to use bioinformatics programs
+Qiime2, FastQC, Cutadapt, GATK,
+PICARD, Samtools
 
 # EDUCATION 
 
@@ -20,9 +33,6 @@ cybernetics
 PhD student in molecular biology, group of
 protein biosynthesis regulation
 2021 - present
-
-
-
 
 # PROFESSIONAL EXPERIENCE
 
@@ -44,21 +54,6 @@ metrics are performed
 ## Summer School on Bioinformatics | 2019
 RNA-seq data processing, studying how transcriptome changes
 as cells mature
-
-
-# Skills
-### Python
-(pandas, sklearn, numpy, scipy )
-(subprocess32, pybedtools, samtools)
-### C++, Qt5
-### bash (gnu parallel), Snakemake, git,
-experienced with Rest API
-### R (ggplot2, corrplot, psych, plotROC,
-lattice, tidyverse)
-mySQL
-### Ability to use bioinformatics programs
-Qiime2, FastQC, Cutadapt, GATK,
-PICARD, Samtools
 
 
 # PUBLICATIONS
@@ -99,15 +94,4 @@ Technology, Moscow
 Marseille
 - Machine Learning, February-May 2019, CAE Institute for Smart Materials and
 Technologies TSU, Tomsk
-- School of epidemiology and mixed methods research for young scientists, April 2019,
-Swiss TPH and SSMU, Tomsk
-- linux introduction by Stepik
-- Winter School "CompTech @ NSK WS 2018", 2018, NSU
-- IV International Medical Tournament, Regional Stage, 2018, Tomsk, 2nd place
-- II Medical Engineering School, 2018, Tomsk, 2nd place
-- Hackathon "LifeCode" -2018, Novosibirsk, participant
-- Regional Olympiad in Informatics, 2017, Tomsk, 3rd place
-- Hackathon “Digital Hack”, 2017, Tomsk, 3rd place
-- Debate in the framework of the 77th All-Russian Student Scientific Conference
-(dedicated to the memory of N.I. Pirogov), 2018, Tomsk, 1 place
 
