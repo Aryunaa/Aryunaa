@@ -7,16 +7,16 @@ ARIUNA AIUSHEEVA
 
 aryuna.ayusheeva.1998@mail.ru
 # SKILLS
-### Python
+### - Python
 (pandas, sklearn, numpy, scipy )
 (subprocess32, pybedtools, samtools)
-### C++, Qt5
+### - C++, Qt5
 ### bash (gnu parallel), Snakemake, git,
 experienced with Rest API
-### R (ggplot2, corrplot, psych, plotROC,
+### - R (ggplot2, corrplot, psych, plotROC,
 lattice, tidyverse)
 mySQL
-### Ability to use bioinformatics programs
+### - Ability to use bioinformatics programs
 Qiime2, FastQC, Cutadapt, GATK,
 PICARD, Samtools
 
