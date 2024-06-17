@@ -1,35 +1,14 @@
 HI!
 I am glad to see you in my profile! You are welcome🐅
-
 ARIUNA AIUSHEEVA
-
 +79138700781 
-
 aryuna.ayusheeva.1998@mail.ru
-# SKILLS
-### - Python(pandas, sklearn, numpy, scipy ),(subprocess32, pybedtools, samtools)
-### - C++, Qt5
-### - bash (gnu parallel), Snakemake, git, experienced with Rest API
-### - R (ggplot2, corrplot, psych, plotROC,lattice, tidyverse), mySQL
-### - Ability to use bioinformatics programs Qiime2, FastQC, Cutadapt, GATK, PICARD, Samtools
-
-# EDUCATION 
-
-- ## Bioinformatics Institute
-Bioinformatics for biologists
-2023 – 2024
-- ## Siberian State Medical University
-Department of Medical Biology, medical
-cybernetics
-2015 - 2021
-- ## Institute of Protein Research
-PhD student in molecular biology, group of
-protein biosynthesis regulation
-2021 - present
 
 # PROFESSIONAL EXPERIENCE
+## TUTU.RU | 2024-Present
+Statistics & ML researcher, A/B testing, team worker
 
-## Institute of Protein Research RAS | 2021 - Present
+## Institute of Protein Research RAS | 2021 - 2023
 - Working with chromatin accessibility data (ATAC-seq, DRIP-seq,
 CHIP-seq), identifying allele-specific binding of transcription
 factors to regulatory variants in U2OS cell line. My role is to
@@ -47,6 +26,30 @@ metrics are performed
 ## Summer School on Bioinformatics | 2019
 RNA-seq data processing, studying how transcriptome changes
 as cells mature
+
+
+# SKILLS
+### - Python(pandas, sklearn,
+numpy, scipy, statsmodels, seaborn,
+matplotlib),(subprocess32, pybedtools, samtools)
+### - C++, Qt5
+### - bash (gnu parallel), Snakemake, git, experienced with Rest API
+### - R (ggplot2, corrplot, psych, plotROC,lattice, tidyverse), mySQL, clickhouse
+### - Ability to use bioinformatics programs Qiime2, FastQC, Cutadapt, GATK, PICARD, Samtools
+
+# EDUCATION 
+
+- ## Bioinformatics Institute
+Bioinformatics for biologists
+2023 – 2024
+- ## Siberian State Medical University
+Department of Medical Biology, medical
+cybernetics
+2015 - 2021
+- ## Institute of Protein Research
+PhD student in molecular biology, group of
+protein biosynthesis regulation
+2021 - 2023
 
 
 # PUBLICATIONS
