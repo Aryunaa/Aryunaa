@@ -1,11 +1,22 @@
 HI!
 I am glad to see you in my profile! You are welcome🐅
+
 ARIUNA AIUSHEEVA
+
 +79138700781 
+
 aryuna.ayusheeva.1998@mail.ru
 
 # PROFESSIONAL EXPERIENCE
-## TUTU.RU | 2024-Present
+## amoCRM | August 2024 - Present
+Data analysis & ETL
+
+- perfoming data extraction with API (`requests`)
+- transform and load data to database (`sqlalchemy`, `pymysql`, `pandas`)
+- retention analysis (`Superset`, `mySQL`)
+- A/B testing (`statsmodels`, `scipy.stats`)
+
+## TUTU.RU | 2024-July 2024
 Statistics & ML researcher, A/B testing, team worker
 
 ## Institute of Protein Research RAS | 2021 - 2023
