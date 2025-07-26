@@ -8,13 +8,16 @@ ARIUNA AIUSHEEVA
 aryuna.ayusheeva.1998@mail.ru
 
 # PROFESSIONAL EXPERIENCE
-## amoCRM | August 2024 - Present
-Data analysis & ETL
+## Sber | 2025
+Data analysis
+- working with database in pyspark
 
+## amoCRM | July 2024 - Jan 2025
+Data analysis & ETL
 - perfoming data extraction with API (`requests`)
 - transform and load data to database (`sqlalchemy`, `pymysql`, `pandas`)
 - retention analysis (`Superset`, `mySQL`)
-- A/B testing (`statsmodels`, `scipy.stats`)
+- Statistics (`statsmodels`, `scipy.stats`)
 
 ## TUTU.RU | 2024-July 2024
 Statistics & ML researcher, A/B testing, team worker
